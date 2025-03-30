@@ -20,7 +20,7 @@ Etapas
     # Análisis estadístico básico de los datos.
     # Acceder a la API  EXCHAGE RATE para consultar precio de las divisas y calcular nuestras monedas en EUROS.
     # Representación gráfica  de nuestros dtos copn seaborn
-    # Elaboración de Dashboard para la presentación de los datos
+    # Elaboración de Dashboard para la presentación de los datos y sacar conclusiones
 
 Autora
 
