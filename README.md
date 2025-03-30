@@ -1,16 +1,14 @@
-PRUEBA TECNICA EMPRESA HOTELERA
+# EMPRESA HOTELERA - PRUEBA TECNICA
 
-Objetivo
+* El objetico de nuestro proyecto es la explorar,limpiez y análisis del conjunto de datos "warehouse"  para facilitar que, la empresa hotelera, tome de decisiones que permitan optimizar la gestión de reservas  así como evitar errores tanto en pagos como en la facturación.
 
-Explorar,limpiar y Analizar el conjunto de datos "warehouse"  para facilitar que, la empresa hotelera, tome de decisiones que permitan optimizar la gestión de reservas  así como evitar errores tanto en pagos como en la facturación.
-
-Herramientas
+# TECNOLOGIAS UTILIZADAS
         
         VisualCode
         Phyton
         Power BI
 
-Etapas
+# ETAPAS DE TRABAJO
     
     # Importar librerías de trabajo 
     # Cargar el dataset
@@ -22,6 +20,6 @@ Etapas
     # Representación gráfica  de nuestros dtos copn seaborn
     # Elaboración de Dashboard para la presentación de los datos y sacar conclusiones
 
-Autora
+
 
 Alba VG
