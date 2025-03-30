@@ -5,11 +5,13 @@ Objetivo
 Explorar,limpiar y Analizar el conjunto de datos "warehouse"  para facilitar que, la empresa hotelera, tome de decisiones que permitan optimizar la gestión de reservas  así como evitar errores tanto en pagos como en la facturación.
 
 Herramientas
+        
         VisualCode
         Phyton
         Power BI
 
 Etapas
+    
     # Importar librerías de trabajo 
     # Cargar el dataset
     # Análisis Exploratorio de nuestra base de datos
@@ -21,4 +23,5 @@ Etapas
     # Elaboración de Dashboard para la presentación de los datos
 
 Autora
+
 Alba VG
