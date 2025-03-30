@@ -31,7 +31,7 @@
    ```bash
    cd nombre-del-repositorio
 
-   ## Ayúdame a Mejorar
+# AYUDAME A MEJORAR Y SEGUIR APRENDIENDO
 
 Este es mi primer proyecto fuera del bootcamp, y tu contribución puede hacer una gran diferencia. Si tienes sugerencias sobre cómo mejorar la funcionalidad, el diseño, o cualquier otro aspecto del proyecto, ¡me encantaría escuchar tu opinión!
 
